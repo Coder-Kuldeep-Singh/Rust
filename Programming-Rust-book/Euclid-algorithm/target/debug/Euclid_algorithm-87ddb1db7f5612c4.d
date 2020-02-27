@@ -1,0 +1,1 @@
+/home/tutree/Desktop/Learning_rust/Rust/Programming-Rust-book/Euclid-algorithm/target/debug/Euclid_algorithm-87ddb1db7f5612c4: /home/tutree/Desktop/Learning_rust/Rust/Programming-Rust-book/Euclid-algorithm/src/main.rs
